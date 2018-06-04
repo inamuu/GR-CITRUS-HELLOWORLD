@@ -15,5 +15,5 @@ loop do
     angle = 0
   end
 
-  delay(100)
+  delay(300)
 end
